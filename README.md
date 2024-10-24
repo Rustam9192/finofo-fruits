@@ -25,6 +25,4 @@
 
 6. I could extend the functionality of this app (e.g., adding remove/clear from jar, creating a new fruit, etc.), but I focused only on the tasks to avoid additional testing and checking from people who will review my code.
 
-7. The provided API endpoint has CORS issues when deployed to Netlify, which prevents it from being accessed in production. However, the application works correctly in the development environment by using a proxy. Therefore, there won’t be a Netlify link to test the app. To run the project, please test it locally by following the instructions to install dependencies and start the development server. If a demo link is required, I can create a Supabase dummy API to resolve the CORS issue and deploy the app properly for demonstration.
-
-8. I can’t wait to wear a cowboy hat while standing between the mountains and Calgary, enjoying the beautiful view, feeling completely at peace knowing that I already have a job at such a wonderful company.
+7. I can’t wait to wear a cowboy hat while standing between the mountains and Calgary, enjoying the beautiful view, feeling completely at peace knowing that I already have a job at such a wonderful company.
